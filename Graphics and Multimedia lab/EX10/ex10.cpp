@@ -128,7 +128,7 @@ void display()
 	if (sugar1_yplace == 1 && sugar2_yplace == 1)
 	{
 		if (teaspoon_posy > -0.25 && teaspoon_yplace == 0)
-			teaspoon_posy -= 0.05; 
+			teaspoon_posy -= 0.05;
 		if (teaspoon_posy <= -0.5)
 			teaspoon_yplace = 1;
 	}
