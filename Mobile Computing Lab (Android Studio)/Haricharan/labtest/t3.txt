@@ -1,0 +1,259 @@
+activity_main.xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="125dp"
+        android:layout_height="167dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.09"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.515"
+        app:srcCompat="@drawable/car" />
+
+    <Button
+        android:id="@+id/forward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forward"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.085"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.803" />
+
+    <Button
+        android:id="@+id/backward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="backward"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.856"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.803" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+car.xml
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:top="25dp" android:left="40dp" android:bottom="150dp" android:right="40dp">
+            <shape xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="rectangle">
+
+                <solid
+                    android:color="#000080" />
+                <size
+                    android:width="82dp"
+                    android:height="41dp" />
+
+            </shape>
+        </item>
+
+        <item android:top="30dp" android:left="45dp" android:bottom="150dp" android:right="45dp">
+            <shape xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="rectangle">
+
+                <gradient
+                    android:angle="0"
+                    android:endColor="#173d73"
+                    android:startColor="#6fa1e8"
+                    android:type="linear" />
+
+                <size
+                    android:width="82dp"
+                    android:height="41dp" />
+
+            </shape>
+        </item>
+
+
+        <item android:top="30dp" android:left="90dp" android:bottom="150dp" android:right="90dp" >
+            <shape xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="rectangle">
+
+                <!--If your shape requires only one solid color-->
+                <solid
+                    android:color="#000080" />
+                <size
+                    android:width="4dp"
+                    android:height="41dp" />
+
+            </shape>
+        </item>
+
+        <item android:top="60dp" android:left="0dp" android:bottom="115dp" android:right="0dp" >
+            <shape xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="rectangle">
+                <corners
+                    android:radius="10dp" />
+
+                <solid
+                    android:color="#000080" />
+                <size
+                    android:width="128dp"
+                    android:height="41dp" />
+
+            </shape>
+        </item>
+
+        <item android:top="80dp" android:left="110dp" android:bottom="100dp" android:right="30dp">
+            <shape
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="oval">
+
+                <solid
+                    android:color="#1B1A1A"/>
+
+                <size
+                    android:width="50dp"
+                    android:height="50dp"/>
+            </shape>
+        </item>
+
+        <item android:top="80dp" android:left="30dp" android:bottom="100dp" android:right="110dp">
+            <shape
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="oval">
+
+                <solid
+                    android:color="#000000"/>
+
+                <size
+                    android:width="50dp"
+                    android:height="50dp"/>
+            </shape>
+        </item>
+
+        <item android:top="90dp" android:left="120dp" android:bottom="110dp" android:right="40dp">
+            <shape
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="oval">
+
+                <solid
+                    android:color="#323131"/>
+
+                <size
+                    android:width="30dp"
+                    android:height="30dp"/>
+            </shape>
+        </item>
+
+        <item android:top="90dp" android:left="40dp" android:bottom="110dp" android:right="120dp">
+            <shape
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="oval">
+
+                <solid
+                    android:color="#323131"/>
+
+                <size
+                    android:width="30dp"
+                    android:height="30dp"/>
+            </shape>
+        </item>
+
+        <item android:top="70dp" android:left="170dp" android:bottom="145dp" android:right="10dp">
+            <shape
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:shape="oval">
+
+                <solid
+                    android:color="#FFD350"/>
+
+                <size
+                    android:width="15dp"
+                    android:height="15dp"/>
+            </shape>
+        </item>
+</layer-list>
+
+
+MainActivity.java
+
+
+package com.example.ex3a;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageView;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        ImageView carImageView;
+        Button forwardButton;
+        Button backwardButton;
+        final float[] carRotation = {90};
+        final int[] fd = {1};
+        final boolean[] isZoomed = {false};
+
+        carImageView = findViewById(R.id.imageView);
+        forwardButton = findViewById(R.id.forward);
+        backwardButton = findViewById(R.id.backward);
+
+        forwardButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (fd[0] == 0){
+                    carRotation[0] += 180;
+                    carImageView.setRotation(carRotation[0]);
+                    fd[0] = 1;
+                }
+                float currentY = carImageView.getTranslationX();
+                carImageView.setTranslationX(currentY+20);
+            }
+        });
+
+        backwardButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (fd[0] == 1) {
+                    carRotation[0] += 270;
+                    carImageView.setRotation(carRotation[0]);
+                    fd[0] = 0;
+                }
+                float currentY = carImageView.getTranslationX();
+                carImageView.setTranslationX(currentY-20);
+            }
+        });
+
+        carImageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (isZoomed[0]) {
+                    // Zoom out
+                    carImageView.setScaleX(1.0f);
+                    carImageView.setScaleY(1.0f);
+                    isZoomed[0] = false;
+                } else {
+                    // Zoom in
+                    carImageView.setScaleX(2.0f);
+                    carImageView.setScaleY(2.0f);
+                    isZoomed[0] = true;
+                }
+            }
+        });
+    }
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Health Insurance</string>
+    <string name="health_insurance_registration_form">Health Insurance Registration Form</string>
+    <string-array name="marital_status_options">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+    </string-array>
+</resources>
+

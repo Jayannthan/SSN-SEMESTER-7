@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" tools:context=".MainActivity">
+
+	<EditText android:id="@+id/fileContents" android:layout_width="300dp" android:layout_height="50dp" android:layout_gravity="center" android:layout_marginTop="150dp" android:text="File Contents" android:textSize="24sp" android:typeface="monospace" android:textStyle="bold" android:textColor="#000000" />
+	<EditText android:id="@+id/fileName" android:layout_width="300dp" android:layout_height="50dp" android:layout_gravity="center" android:layout_marginTop="50dp" android:text="File Name" android:textSize="24sp" android:typeface="monospace" android:textStyle="bold" android:textColor="#000000" />
+
+	<Button android:id="@+id/write" android:layout_width="250dp" android:layout_height="50dp" android:layout_gravity="center" android:layout_marginTop="75dp" android:text="Write to File" android:textSize="20sp" android:typeface="monospace" android:textStyle="bold" />
+
+	<Button android:id="@+id/read" android:layout_width="250dp" android:layout_height="50dp" android:layout_gravity="center" android:layout_marginTop="50dp" android:text="Read from File" android:textSize="20sp" android:typeface="monospace" android:textStyle="bold" />
+
+</LinearLayout>

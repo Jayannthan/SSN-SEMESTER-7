@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/about_icon_24"
+        android:title=""
+        android:showAsAction="always" />
+    <item
+        android:id="@+id/action_app_settings"
+        android:title="App Settings"
+        android:showAsAction="never" />
+</menu>

@@ -1,0 +1,33 @@
+2M
+Message-passing systems versus shared memory systems
+Synchronous versus asynchronous executions
+
+6M
+Flynns taxonomy
+
+
+10M
+Design challenges
+Algorithmic challenges
+
+
+Youtube:
+
+Cristian's Algorithm Physical clock synchronization in Distributed Systems
+https://www.youtube.com/watch?v=9RUmRzAI3jA
+
+Berkeley's Algorithm Physical clock synchronization
+https://www.youtube.com/watch?v=8NW7-6Ea59Y
+
+Network Time Protocol Physical Clock Synchronization Distributed Systems
+https://www.youtube.com/watch?v=af9hZMiEe5U
+
+Lamport logical clock | Distributed systems
+https://www.youtube.com/watch?v=i1Z66AxbJrw&t=912s
+
+
+Vector clock | Distributed Operating systems
+https://www.youtube.com/watch?v=Ne4gdadd7gw
+
+Causual ordering of messages | BSS Algorithm | Distributed OS
+https://www.youtube.com/watch?v=XRkv77EhKUo

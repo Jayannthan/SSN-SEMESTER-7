@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" tools:context=".ReadActivity">
+
+	<TextView android:layout_width="400dp" android:layout_height="50dp" android:layout_gravity="center" android:layout_marginTop="100dp" android:text="Contents from File" android:gravity="center" android:textSize="32sp" android:typeface="monospace" android:textStyle="bold" android:textColor="#000000" />
+
+	<TextView android:id="@+id/contentsFromFile" android:layout_width="300dp" android:layout_height="200dp" android:layout_gravity="center" android:layout_marginTop="100dp" android:text="" android:textSize="18sp" android:typeface="monospace" android:textStyle="bold" />
+
+</LinearLayout>

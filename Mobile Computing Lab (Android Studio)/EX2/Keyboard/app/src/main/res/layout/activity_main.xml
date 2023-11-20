@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" tools:context=".MainActivity">
+	<androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/key_holder" android:layout_width="match_parent" android:layout_height="280dp" android:layout_margin="18dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent">
+		<TableLayout android:layout_width="wrap_content" android:layout_height="match_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" android:stretchColumns="*">
+			<TableRow android:layout_gravity="center">
+
+				<Button android:id="@+id/q" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="q" />
+				<Button android:id="@+id/w" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="w" />
+				<Button android:id="@+id/e" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="e" />
+				<Button android:id="@+id/r" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="r" />
+				<Button android:id="@+id/t" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="t" />
+				<Button android:id="@+id/y" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="y" />
+				<Button android:id="@+id/u" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="u" />
+			</TableRow>
+			<TableRow android:layout_gravity="center">
+				<Button android:id="@+id/a" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:layout_weight="1" android:text="a" />
+				<Button android:id="@+id/s" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="s" />
+				<Button android:id="@+id/d" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="d" />
+				<Button android:id="@+id/f" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="f" />
+				<Button android:id="@+id/g" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="g" />
+				<Button android:id="@+id/h" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="h" />
+				<Button android:id="@+id/j" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="j" />
+			</TableRow>
+			<TableRow android:layout_gravity="center">
+				<Button android:id="@+id/z" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="z" />
+				<Button android:id="@+id/x" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="x" />
+				<Button android:id="@+id/c" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="c" />
+				<Button android:id="@+id/v" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="v" />
+				<Button android:id="@+id/b" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="b" />
+				<Button android:id="@+id/n" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="n" />
+				<Button android:id="@+id/m" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="m" />
+			</TableRow>
+			<TableRow android:layout_gravity="center">
+				<Button android:id="@+id/caps" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="⬆️" />
+				<Button android:id="@+id/l" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="l" />
+				<Button android:id="@+id/i" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="i" />
+				<Button android:id="@+id/o" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="o" />
+				<Button android:id="@+id/p" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="p" />
+				<Button android:id="@+id/k" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="k" />
+				<Button android:id="@+id/backspace" android:layout_margin="2dp" android:layout_weight="1" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="⬅️" />
+			</TableRow>
+			<TableRow>
+				<Button android:id="@+id/change" android:layout_margin="2dp" android:backgroundTint="@color/button_background" android:text="\?123" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" />
+				<Button android:id="@+id/space" android:layout_margin="2dp" android:layout_weight="6" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="Space" />
+				<Button android:id="@+id/enter" android:layout_margin="2dp" android:textAllCaps="false" android:textColor="@color/button_text" android:textSize="18sp" android:textStyle="bold" android:backgroundTint="@color/button_background" android:text="↩️" />
+			</TableRow>
+		</TableLayout>
+	</androidx.constraintlayout.widget.ConstraintLayout>
+	<EditText android:id="@+id/editor" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="24dp" android:hint="Type here..." android:text="" app:layout_constraintBottom_toTopOf="@+id/submit_btn" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+	<Button android:id="@+id/submit_btn" android:layout_width="180dp" android:layout_height="wrap_content" android:layout_margin="12dp" android:text="Submit" app:layout_constraintBottom_toTopOf="@+id/clear_btn" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+	<Button android:id="@+id/clear_btn" android:layout_width="180dp" android:layout_height="wrap_content" android:layout_margin="12dp" android:text="Clear" app:layout_constraintBottom_toTopOf="@+id/key_holder" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

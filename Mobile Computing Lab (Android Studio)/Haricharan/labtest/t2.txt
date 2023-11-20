@@ -1,0 +1,354 @@
+activity main
+
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:app="http://schemas.android.com/apk/res-auto"
+   xmlns:tools="http://schemas.android.com/tools"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   tools:context=".MainActivity">
+
+
+   <androidx.gridlayout.widget.GridLayout
+       android:id="@+id/gridLayout"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_margin="24dp"
+       app:layout_constraintBottom_toBottomOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent">
+
+
+       <Button
+           android:id="@+id/a"
+           android:layout_width="48dp"
+           android:textAllCaps = "false"
+           android:layout_height="wrap_content"
+           android:text="a"
+           app:layout_column="0"
+           app:layout_row="0" />
+
+       <Button
+           android:id="@+id/b"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="b"
+           app:layout_column="1"
+           app:layout_row="0" />
+
+       <Button
+           android:id="@+id/c"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="c"
+           app:layout_column="2"
+           app:layout_row="0" />
+       <Button
+           android:id="@+id/d"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="d"
+           app:layout_column="3"
+           app:layout_row="0" />
+
+       <Button
+           android:id="@+id/e"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="e"
+           app:layout_column="4"
+           app:layout_row="0" />
+
+       <Button
+           android:id="@+id/f"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="f"
+           app:layout_column="5"
+           app:layout_row="0" />
+
+       <Button
+           android:id="@+id/g"
+           android:layout_width="48dp"
+           android:textAllCaps = "false"
+           android:layout_height="wrap_content"
+           android:text="g"
+           app:layout_column="0"
+           app:layout_row="1" />
+
+       <Button
+           android:id="@+id/h"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="h"
+           app:layout_column="1"
+           app:layout_row="1" />
+
+       <Button
+           android:id="@+id/i"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="i"
+           app:layout_column="2"
+           app:layout_row="1" />
+       <Button
+           android:id="@+id/j"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="j"
+           app:layout_column="3"
+           app:layout_row="1" />
+
+       <Button
+           android:id="@+id/k"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="k"
+           app:layout_column="4"
+           app:layout_row="1" />
+
+       <Button
+           android:id="@+id/l"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="l"
+           app:layout_column="5"
+           app:layout_row="1" />
+
+       <Button
+           android:id="@+id/m"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="m"
+           app:layout_column="6"
+           app:layout_row="1" />
+
+       <Button
+           android:id="@+id/n"
+           android:layout_width="48dp"
+           android:textAllCaps = "false"
+           android:layout_height="wrap_content"
+           android:text="n"
+           app:layout_column="0"
+           app:layout_row="2" />
+
+       <Button
+           android:id="@+id/o"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="o"
+           app:layout_column="1"
+           app:layout_row="2" />
+
+       <Button
+           android:id="@+id/p"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="p"
+           app:layout_column="2"
+           app:layout_row="2" />
+       <Button
+           android:id="@+id/q"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="q"
+           app:layout_column="3"
+           app:layout_row="2" />
+
+       <Button
+           android:id="@+id/r"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="r"
+           app:layout_column="4"
+           app:layout_row="2" />
+
+       <Button
+           android:id="@+id/s"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="s"
+           app:layout_column="5"
+           app:layout_row="2" />
+
+       <Button
+           android:id="@+id/t"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="t"
+           app:layout_column="6"
+           app:layout_row="2" />
+
+       <Button
+           android:id="@+id/toggle"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Caps"
+           app:layout_column="6"
+           app:layout_row="0" />
+
+       <Button
+           android:id="@+id/u"
+           android:layout_width="48dp"
+           android:textAllCaps = "false"
+           android:layout_height="wrap_content"
+           android:text="u"
+           app:layout_column="0"
+           app:layout_row="3" />
+
+       <Button
+           android:id="@+id/v"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="v"
+           app:layout_column="1"
+           app:layout_row="3" />
+
+       <Button
+           android:id="@+id/w"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="w"
+           app:layout_column="2"
+           app:layout_row="3" />
+       <Button
+           android:id="@+id/x"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="x"
+           app:layout_column="3"
+           app:layout_row="3" />
+
+       <Button
+           android:id="@+id/y"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="y"
+           app:layout_column="4"
+           app:layout_row="3" />
+
+       <Button
+           android:id="@+id/z"
+           android:layout_width="48dp"
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="z"
+           app:layout_column="5"
+           app:layout_row="3" />
+
+       <Button
+           android:id="@+id/del"
+
+           android:layout_height="wrap_content"
+           android:textAllCaps = "false"
+           android:text="del"
+           app:layout_column="6"
+           app:layout_row="3" />
+
+   </androidx.gridlayout.widget.GridLayout>
+
+   <EditText
+       android:id="@+id/editor"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:ems="10"
+       android:inputType="textPersonName"
+       android:text=""
+       android:hint = "Enter"
+       app:layout_constraintBottom_toTopOf="@+id/gridLayout"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+MainActivity.java
+package com.example.app2;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+
+public class MainActivity extends AppCompatActivity {
+
+   @Override
+   protected void onCreate(Bundle savedInstanceState) {
+       super.onCreate(savedInstanceState);
+       setContentView(R.layout.activity_main);
+
+
+
+       EditText editor = findViewById(R.id.editor);
+
+       View.OnClickListener alphabetClickListener = new View.OnClickListener() {
+           @Override
+           public void onClick(View v) {
+               Button clickedButton = (Button) v;
+               String buttonText = clickedButton.getText().toString();
+               String currentText = editor.getText().toString();
+               editor.setText(currentText + buttonText);
+           }
+       };
+
+
+
+       final boolean[] isUpperCase = {false};
+
+       int[] alphabetButtonIds = {
+               R.id.a, R.id.b, R.id.c, R.id.d, R.id.e, R.id.f, R.id.g, R.id.h, R.id.i, R.id.j, R.id.k, R.id.l, R.id.m, R.id.n, R.id.o, R.id.p, R.id.q, R.id.r, R.id.s, R.id.t, R.id.u, R.id.v, R.id.w, R.id.x, R.id.y, R.id.z
+       };
+       for (int buttonId : alphabetButtonIds) {
+           Button alphabetButton = findViewById(buttonId);
+           alphabetButton.setOnClickListener(alphabetClickListener);
+       }
+
+
+       Button capsToggle = findViewById(R.id.toggle);
+       capsToggle.setOnClickListener(View -> {
+               for (int buttonId : alphabetButtonIds) {
+                   Button alphabetButton = findViewById(buttonId);
+                   String a = alphabetButton.getText().toString();
+                   if (!isUpperCase[0]) {
+                       alphabetButton.setText(a.toUpperCase());
+                   } else {
+                       alphabetButton.setText(a.toLowerCase());
+                   }
+               }
+           isUpperCase[0] = !isUpperCase[0];
+       });
+
+
+       Button del = findViewById(R.id.del);
+       del.setOnClickListener(View -> {
+           String currentText = editor.getText().toString();
+           if(currentText.length() > 0) {
+               editor.setText(currentText.substring(0, currentText.length() - 1));
+           }
+       });
+
+   }
+}
+

@@ -1,0 +1,590 @@
+MainActivity.java
+
+package com.example.healthalpha;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.app.DatePickerDialog;
+import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.DatePicker;
+import android.widget.EditText;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
+import android.widget.Spinner;
+
+import java.util.Calendar;
+
+public class MainActivity extends AppCompatActivity {
+
+   @Override
+   protected void onCreate(Bundle savedInstanceState) {
+       super.onCreate(savedInstanceState);
+       setContentView(R.layout.activity_main);
+
+       //
+       Spinner spinner = (Spinner) findViewById(R.id.spinner);
+       ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
+               R.array.planets_array, android.R.layout.simple_spinner_item);
+       adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+       spinner.setAdapter(adapter);
+       String stringVal = spinner.getSelectedItem().toString();
+
+       //
+       Button startButton = findViewById(R.id.submit_btn);
+       Button resetButton = findViewById(R.id.reset_btn);
+       EditText editText1 = findViewById(R.id.name_ipt);
+       EditText editText2 = findViewById(R.id.phone_ipt);
+       EditText editText3 = findViewById(R.id.age_ipt);
+       EditText editText4 = findViewById(R.id.address_ipt);
+
+       //
+       EditText editText5 = findViewById(R.id.emp_name_ipt);
+
+       //
+       EditText editText6 = findViewById(R.id.name_emg_ipt);
+       EditText editText7 = findViewById(R.id.address_emg_ipt);
+       EditText editText8 = findViewById(R.id.phone_emg_ipt);
+       EditText editText9 = findViewById(R.id.relation_ipt);
+
+       DatePickerDialog.OnDateSetListener setListener;
+       EditText tvDate = findViewById(R.id.dob_ipt);
+
+       Calendar calendar = Calendar.getInstance();
+       final int year = calendar.get(Calendar.YEAR);
+       final int month = calendar.get(Calendar.MONTH);
+       final int day = calendar.get(Calendar.DAY_OF_MONTH);
+
+       setListener = new DatePickerDialog.OnDateSetListener() {
+           @Override
+           public void onDateSet(DatePicker datePicker, int year, int month, int day) {
+               month = month+1;
+               String date = day+"/"+month+"/"+year;
+               tvDate.setText(date);
+
+           }
+       };
+
+       tvDate.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View view) {
+               DatePickerDialog datePickerDialog = new DatePickerDialog(
+                       MainActivity.this, R.style.Theme_HealthAlpha, setListener,year,month,day
+               );
+               datePickerDialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.WHITE));
+               datePickerDialog.show();
+           }
+       });
+
+       CheckBox c2,c3,c4,c5,c6,c7;
+       c2 = findViewById(R.id.full_time);
+       c3 = findViewById(R.id.part_time);
+       c4 = findViewById(R.id.unemployed);
+       c5 = findViewById(R.id.student);
+       c6 = findViewById(R.id.other_work);
+       c7 = findViewById(R.id.retired);
+
+       //
+       startButton.setOnClickListener(v -> {
+           String uName = editText1.getText().toString();
+           String uPhone = editText2.getText().toString();
+           String uAge = editText3.getText().toString();
+           String uAddress = editText4.getText().toString();
+           String duty = "";
+           String eName = editText5.getText().toString();
+           if (c2.isChecked()) {
+               duty += c2.getText().toString()+", ";
+           }
+           if (c3.isChecked()) {
+               duty += c3.getText().toString()+", ";
+           }
+           if (c4.isChecked()) {
+               duty += c4.getText().toString()+", ";
+           }
+           if (c5.isChecked()) {
+               duty += c5.getText().toString()+", ";
+           }
+           if (c6.isChecked()) {
+               duty += c6.getText().toString()+", ";
+           }
+           if (c7.isChecked()) {
+               duty += c7.getText().toString()+", ";
+           } else {
+               duty += "";
+           }
+
+           //
+           String emName = editText6.getText().toString();
+           String emAddress = editText7.getText().toString();
+           String emPhone = editText8.getText().toString();
+           String emRelation = editText9.getText().toString();
+           RadioGroup rg = findViewById(R.id.gender_ipt);
+           RadioButton rb;
+           int ID = rg.getCheckedRadioButtonId();
+           rb = findViewById(ID);
+
+           //
+           Intent intent1 = new Intent(MainActivity.this, HomeActivity.class);
+           intent1.putExtra("uName", uName);
+           intent1.putExtra("uPhone", uPhone);
+           intent1.putExtra("uAge", uAge);
+           intent1.putExtra("uAddress", uAddress);
+           intent1.putExtra("uDate", tvDate.getText().toString());
+           intent1.putExtra("uGender", rb.getText().toString());
+           intent1.putExtra("uMarital", stringVal);
+
+           //
+           intent1.putExtra("eName", eName);
+           intent1.putExtra("eJob", duty);
+
+           //
+           intent1.putExtra("emName", emName);
+           intent1.putExtra("emAddress", emAddress);
+           intent1.putExtra("emPhone", emPhone);
+           intent1.putExtra("emRelation", emRelation);
+
+           startActivity(intent1);
+       });
+
+       //
+       resetButton.setOnClickListener(v -> {
+           editText1.setText("");
+           editText2.setText("");
+           editText3.setText("");
+           editText4.setText("");
+           tvDate.setText("");
+
+           editText5.setText("");
+
+           editText6.setText("");
+           editText7.setText("");
+           editText8.setText("");
+           editText9.setText("");
+       });
+
+   }
+}
+
+HomeActivity.java
+
+package com.example.healthalpha;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+public class HomeActivity extends AppCompatActivity {
+   @Override
+   protected void onCreate(Bundle savedInstanceState) {
+       super.onCreate(savedInstanceState);
+       setContentView(R.layout.activity_home);
+
+       Intent intent = getIntent();
+
+       String fullName = intent.getStringExtra("uName");
+       String phone = intent.getStringExtra("uPhone");
+       String age = intent.getStringExtra("uAge");
+       String address = intent.getStringExtra("uAddress");
+       String dob = intent.getStringExtra("uDate");
+       String gender = intent.getStringExtra("uGender");
+       String marriage = intent.getStringExtra("uMarital");
+
+       String empName = intent.getStringExtra("eName");
+       String empJob = intent.getStringExtra("eJob");
+
+       String emgName = intent.getStringExtra("emName");
+       String emgAddress = intent.getStringExtra("emAddress");
+       String emgPhone = intent.getStringExtra("emPhone");
+       String emgRelation = intent.getStringExtra("emRelation");
+
+       TextView fullNameTextView = findViewById(R.id.fullNameTextView);
+       TextView fullNameTextView1 = findViewById(R.id.fullNameTextView1);
+       TextView fullNameTextView2 = findViewById(R.id.fullNameTextView2);
+       TextView fullNameTextView4 = findViewById(R.id.fullNameTextView4);
+       TextView fullNameTextView5 = findViewById(R.id.textView6);
+       TextView fullNAmeTextView6 = findViewById(R.id.textView13);
+       TextView fullNamTextView7 = findViewById(R.id.textView22);
+
+       TextView empName1 = findViewById(R.id.textView8);
+       TextView empName2 = findViewById(R.id.textView25);
+
+       TextView emgTextView1 = findViewById(R.id.textView14);
+       TextView emgTextView2 = findViewById(R.id.textView16);
+       TextView emgTextView3 = findViewById(R.id.textView18);
+       TextView emgTextView4 = findViewById(R.id.textView20);
+
+       fullNameTextView.setText(fullName);
+       fullNameTextView1.setText(phone);
+       fullNameTextView2.setText(age);
+       fullNameTextView4.setText(address);
+       fullNameTextView5.setText(dob);
+       fullNAmeTextView6.setText(gender);
+       fullNamTextView7.setText(marriage);
+
+       empName1.setText(empName);
+       empName2.setText(empJob);
+
+       emgTextView1.setText(emgName);
+       emgTextView2.setText(emgAddress);
+       emgTextView3.setText(emgPhone);
+       emgTextView4.setText(emgRelation);
+
+   }
+}
+
+Activity_main.xml
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:app="http://schemas.android.com/apk/res-auto"
+   xmlns:tools="http://schemas.android.com/tools"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   tools:context=".MainActivity">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+       <TextView
+           android:id="@+id/title"
+           android:layout_gravity="center"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/title"
+           android:textSize="24sp"
+           android:fontFamily="sans-serif-black"
+           android:layout_margin="24dp"/>
+       <TextView
+           android:id="@+id/patients_title"
+           android:textStyle="bold"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/patient_details"
+           android:textSize="18sp"
+           android:fontFamily="sans-serif"
+           android:layout_marginStart="24dp"/>
+       <TableLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_margin="24dp"
+           android:stretchColumns="1">
+           <TableRow>
+               <TextView
+                   android:id="@+id/name"
+                   android:textColor="@color/purple_500"
+                   android:paddingEnd="24dp"
+                   android:text="NAME"/>
+
+               <EditText
+                   android:id="@+id/name_ipt"
+                   android:textColor="@color/purple_500"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:inputType="textPersonName"
+                   android:hint="Enter full name" />
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:id="@+id/phone"
+                   android:paddingEnd="24dp"
+                   android:text="PHONE"/>
+               <EditText
+                   android:id="@+id/phone_ipt"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:hint="Enter phone number"
+                   android:inputType="phone" />
+           </TableRow>
+           <TableRow>
+               <Space>
+
+               </Space>
+               <androidx.constraintlayout.widget.ConstraintLayout>
+
+                   <CheckBox
+                       android:id="@+id/mobile"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Mobile"
+                       app:layout_constraintBottom_toBottomOf="parent"
+                       app:layout_constraintStart_toStartOf="parent"
+                       app:layout_constraintTop_toTopOf="parent" />
+
+                   <CheckBox
+                       android:id="@+id/landline"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Landline"
+                       app:layout_constraintStart_toEndOf="@+id/mobile"
+                       app:layout_constraintTop_toTopOf="parent" />
+               </androidx.constraintlayout.widget.ConstraintLayout>
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:id="@+id/address"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="ADDRESS" />
+
+               <EditText
+                   android:id="@+id/address_ipt"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:hint="Enter full address"
+                   android:inputType="textPostalAddress" />
+           </TableRow>
+
+           <TableRow
+               android:layout_width="match_parent"
+               android:layout_height="match_parent" >
+               <TextView
+                   android:id="@+id/age"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="AGE" />
+
+               <EditText
+                   android:id="@+id/age_ipt"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:hint="Enter age"
+                   android:inputType="numberSigned" />
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:id="@+id/dob"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="DOB" />
+               <EditText
+                   android:id="@+id/dob_ipt"
+                   android:hint="Click to select date of birth"
+                   android:ems="10" />
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:text="GENDER"
+                   android:id="@+id/gender"/>
+               <RadioGroup
+                   android:id="@+id/gender_ipt">
+                   <RadioButton
+                       android:id="@+id/male"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Male"/>
+
+                   <RadioButton
+                       android:id="@+id/female"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Female" />
+
+                   <RadioButton
+                       android:id="@+id/other"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Other"/>
+               </RadioGroup>
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:id="@+id/martial"
+                   android:layout_marginEnd="12dp"
+                   android:text="MARITAL STATUS"/>
+               <Spinner
+                   android:id="@+id/spinner"
+                   android:hint="Martial Status"/>
+           </TableRow>
+       </TableLayout>
+       <TextView
+           android:id="@+id/employee_title"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:text="Employee Details"
+           android:textSize="18sp"
+           android:fontFamily="sans-serif"
+           android:layout_marginStart="24dp"/>
+       <TableLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_margin="24dp"
+           android:stretchColumns="1">
+           <TableRow>
+               <TextView
+                   android:paddingEnd="24dp"
+                   android:id="@+id/emp_name"
+                   android:text="NAME"/>
+               <EditText
+                   android:id="@+id/emp_name_ipt"
+                   android:hint="Enter employee name"/>
+           </TableRow>
+           <TableRow>
+
+               <TextView
+                   android:id="@+id/emp_status"
+                   android:text="EMPLOYEE STATUS" />
+
+               <androidx.constraintlayout.widget.ConstraintLayout>
+
+                   <CheckBox
+                       android:id="@+id/full_time"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Full time"
+                       app:layout_constraintStart_toStartOf="parent"
+                       app:layout_constraintTop_toTopOf="parent" />
+
+                   <CheckBox
+                       android:id="@+id/part_time"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Part time"
+                       app:layout_constraintStart_toEndOf="@+id/full_time"
+                       app:layout_constraintTop_toTopOf="parent" />
+
+                   <CheckBox
+                       android:id="@+id/unemployed"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_marginTop="48dp"
+                       android:text="Unemployed"
+                       app:layout_constraintTop_toTopOf="@+id/retired"
+                       tools:layout_editor_absoluteX="0dp"
+                       app:layout_constraintStart_toStartOf="parent"/>
+
+                   <CheckBox
+                       android:id="@+id/retired"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="retired"
+                       app:layout_constraintStart_toStartOf="parent"
+                       app:layout_constraintTop_toBottomOf="@+id/full_time" />
+
+                   <CheckBox
+                       android:id="@+id/student"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Student"
+                       app:layout_constraintStart_toEndOf="@+id/retired"
+                       app:layout_constraintTop_toBottomOf="@+id/part_time" />
+
+                   <CheckBox
+                       android:id="@+id/other_work"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Other"
+                       app:layout_constraintTop_toBottomOf="@+id/unemployed"
+                       app:layout_constraintStart_toStartOf="parent"/>
+               </androidx.constraintlayout.widget.ConstraintLayout>
+           </TableRow>
+       </TableLayout>
+       <TextView
+           android:id="@+id/emergency_title"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:text="Emergency Contact Details"
+           android:textSize="18sp"
+           android:fontFamily="sans-serif"
+           android:layout_marginStart="24dp"/>
+       <TableLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_margin="24dp"
+           android:stretchColumns="1">
+           <TableRow>
+               <TextView
+                   android:id="@+id/name_emg"
+                   android:paddingEnd="24dp"
+                   android:text="NAME"/>
+
+               <EditText
+                   android:id="@+id/name_emg_ipt"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:inputType="textPersonName"
+                   android:hint="Enter full name" />
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:id="@+id/address_emg"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="ADDRESS" />
+
+               <EditText
+                   android:id="@+id/address_emg_ipt"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:hint="Enter full address"
+                   android:inputType="textPostalAddress" />
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:id="@+id/relation"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginEnd="12dp"
+                   android:text="RELATIONSHIP" />
+
+               <EditText
+                   android:id="@+id/relation_ipt"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:hint="Enter relationship"
+                   android:inputType="text" />
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:id="@+id/phone_emg"
+                   android:paddingEnd="24dp"
+                   android:text="PHONE"/>
+               <EditText
+                   android:id="@+id/phone_emg_ipt"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:ems="10"
+                   android:hint="Enter phone number"
+                   android:inputType="phone" />
+           </TableRow>
+       </TableLayout>
+       <androidx.constraintlayout.widget.ConstraintLayout
+           android:layout_width="wrap_content"
+           android:layout_gravity="center"
+           android:layout_marginBottom="24dp"
+           android:layout_height="wrap_content">
+           <Button
+               app:layout_constraintStart_toStartOf="parent"
+               app:layout_constraintTop_toTopOf="parent"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:id="@+id/submit_btn"
+               android:text="Submit"/>
+
+           <Button
+               android:id="@+id/reset_btn"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="12dp"
+               android:text="Reset"
+               app:layout_constraintStart_toEndOf="@+id/submit_btn"
+               app:layout_constraintTop_toTopOf="parent" />
+       </androidx.constraintlayout.widget.ConstraintLayout>
+   </LinearLayout>
+</ScrollView>

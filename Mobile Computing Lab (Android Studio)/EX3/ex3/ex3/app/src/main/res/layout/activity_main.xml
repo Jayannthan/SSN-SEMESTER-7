@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	>
+
+	<!-- Buttons for moving forward and backward -->
+
+	<RelativeLayout
+		android:id="@+id/carLayout"
+		android:layout_width="fill_parent"
+		android:layout_height="400dp"
+		>
+
+		<ImageView
+			android:id="@+id/car"
+			android:layout_width="200dp"
+			android:layout_height="80dp"
+			android:layout_marginLeft="100dp"
+			android:layout_marginTop="100dp"
+			android:src="@drawable/car"
+			/>
+
+		<ImageView
+			android:id="@+id/carwin"
+			android:layout_width="89dp"
+			android:layout_height="30dp"
+			android:layout_marginLeft="190dp"
+			android:layout_marginTop="105dp"
+			android:src="@drawable/carwin"
+			/>
+
+
+		<ImageView
+			android:id="@+id/rightWheel"
+			android:layout_width="42dp"
+			android:layout_height="42dp"
+			android:layout_marginLeft="248dp"
+			android:layout_marginTop="168dp"
+			android:src="@drawable/carwheel"
+			/>
+
+		<ImageView
+			android:id="@+id/leftWheel"
+			android:layout_width="42dp"
+			android:layout_height="42dp"
+			android:layout_marginLeft="120dp"
+			android:layout_marginTop="168dp"
+			android:src="@drawable/carwheel"
+			/>
+
+	</RelativeLayout>
+
+	<RelativeLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+
+		>
+
+		<Button
+			android:layout_centerHorizontal="true"
+			android:id="@+id/moveForwardButton"
+			android:layout_width="55dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="bottom|start"
+			android:layout_marginStart="20dp"
+			android:layout_marginTop="20dp"
+			android:layout_marginBottom="20dp"
+			android:text="GO" />
+
+		<Button
+			android:id="@+id/moveBackButton"
+			android:layout_width="130dp"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/moveForwardButton"
+			android:layout_centerInParent="true"
+			android:layout_gravity="bottom|end"
+			android:layout_marginTop="-4dp"
+			android:layout_marginEnd="20dp"
+			android:layout_marginBottom="20dp"
+			android:text="REVERSE" />
+	</RelativeLayout>
+</LinearLayout>

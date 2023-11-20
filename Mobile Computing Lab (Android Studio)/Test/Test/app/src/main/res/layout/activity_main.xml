@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/rel"
+    >
+<LinearLayout
+    android:id="@+id/linearlayout"
+    android:layout_width="match_parent"
+    android:layout_centerInParent="true"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <Button
+        android:id="@+id/male_button"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="Male"
+        />
+    <Button
+        android:id="@+id/female_button"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:text="Female"
+        />
+
+    <Button
+        android:id="@+id/shape_button"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:text="Shape"
+        />
+
+</LinearLayout>
+
+<!--    <TextView-->
+<!--        android:id="@+id/textmale"-->
+<!--        android:layout_width="10dp"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_below="@id/linearlayout"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:layout_marginTop="19dp"-->
+<!--        />-->
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<!-- activity_display_data.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+
+	<TextView android:id="@+id/displayPatientName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayAddress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayAge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="16dp"/>
+
+	<TextView android:id="@+id/displayGender" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayMaritalStatus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayDateOfBirth" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="16dp"/>
+
+	<TextView android:id="@+id/displayEmployer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayEmploymentStatus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayEmergencyContactName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayRelationship" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayEmergencyContactAddress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="8dp"/>
+
+	<TextView android:id="@+id/displayEmergencyContactPhoneNumber" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:paddingBottom="16dp"/>
+
+</LinearLayout>

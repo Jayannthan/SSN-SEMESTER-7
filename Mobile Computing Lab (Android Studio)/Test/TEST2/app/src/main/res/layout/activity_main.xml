@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Details"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        />
+
+    <LinearLayout
+        android:id="@+id/titlespace"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/heading"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textSize="20dp"
+            />
+
+        <RadioGroup
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/titlegrp"
+            >
+            <RadioButton
+                android:id="@+id/mrbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr."
+                />
+            <RadioButton
+                android:id="@+id/mrsbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mrs."
+                />
+        </RadioGroup>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/namespace"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/titlespace"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/getname"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Name"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/addressspace"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/namespace"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Address"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/getaddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Address"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/dobspace"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addressspace"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="fill_parent"
+            android:text="DOB"
+            android:textSize="20dp"
+
+            />
+        <DatePicker
+            android:id="@+id/getdob"
+            android:layout_width="fill_parent"
+            android:layout_height="300dp"
+            android:datePickerMode="spinner"
+            />
+    </LinearLayout>
+    <Button
+        android:layout_below="@+id/dobspace"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/submitbutton"
+        />
+    <Button
+        android:layout_below="@+id/submitbutton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Shape Page"
+        android:id="@+id/Shape"
+        />
+</RelativeLayout>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:padding="16dp">
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/health_insurance_registration_form"
+			android:textSize="24sp"
+			android:textStyle="bold"
+			android:typeface="serif"
+			android:layout_gravity="center"
+			android:layout_marginBottom="16dp"/>
+
+		<TableLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+
+			<!-- Group: Patient Details -->
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Patient Details"
+					android:textStyle="bold"
+					android:layout_span="2"
+					android:paddingBottom="8dp"
+					android:paddingTop="16dp"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Patient Name:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/patientNameEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter patient name"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Patient Phone Number:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<CheckBox
+					android:id="@+id/mobileCheckBox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Mobile"/>
+				<CheckBox
+					android:id="@+id/landlineCheckBox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Landline"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Address:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/addressEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter address"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Age:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/ageEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter age"
+					android:inputType="number"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Date of Birth:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<DatePicker
+					android:id="@+id/dateOfBirthDatePicker"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:datePickerMode="spinner"
+					android:calendarViewShown="false"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Gender:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<RadioGroup
+					android:id="@+id/genderRadioGroup"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:orientation="horizontal"
+					android:layout_weight="1">
+
+					<RadioButton
+						android:id="@+id/maleRadioButton"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="Male"/>
+					<RadioButton
+						android:id="@+id/femaleRadioButton"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="Female"/>
+					<RadioButton
+						android:id="@+id/otherRadioButton"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="Other"/>
+				</RadioGroup>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Marital Status:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<Spinner
+					android:id="@+id/displayMaritalStatusSpinner"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<!-- Group: Employer Details -->
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Employer Details"
+					android:textStyle="bold"
+					android:layout_span="2"
+					android:paddingBottom="8dp"
+					android:paddingTop="16dp"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Patient Employer:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/employerEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter employer"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Employment Status:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<CheckBox
+					android:id="@+id/fullTimeCheckBox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Full Time"/>
+				<CheckBox
+					android:id="@+id/partTimeCheckBox"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Part Time"/>
+				<!-- Add more checkboxes for other options -->
+			</TableRow>
+
+			<!-- Group: Emergency Contact Details -->
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Emergency Contact Details"
+					android:textStyle="bold"
+					android:layout_span="2"
+					android:paddingBottom="8dp"
+					android:paddingTop="16dp"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Name:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/emergencyNameEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter emergency contact name"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Relationship:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/relationshipEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter relationship"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Address:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/emergencyAddressEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter emergency contact address"
+					android:layout_weight="1"/>
+			</TableRow>
+
+			<TableRow>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Phone Number:"
+					android:textColor="#000000"
+					android:paddingEnd="8dp"/>
+				<EditText
+					android:id="@+id/emergencyPhoneNumberEditText"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:hint="Enter emergency contact phone number"
+					android:inputType="phone"
+					android:layout_weight="1"/>
+			</TableRow>
+
+
+			<TableRow>
+				<Button
+					android:id="@+id/submitButton"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Submit"
+					android:layout_gravity="center"
+					android:layout_span="2"
+					android:layout_marginTop="16dp"/>
+			</TableRow>
+
+			<TableRow>
+				<Button
+					android:id="@+id/resetButton"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Reset"
+					android:layout_gravity="center"
+					android:layout_span="2"
+					android:layout_marginTop="8dp"/>
+			</TableRow>
+		</TableLayout>
+
+	</LinearLayout>
+</ScrollView>

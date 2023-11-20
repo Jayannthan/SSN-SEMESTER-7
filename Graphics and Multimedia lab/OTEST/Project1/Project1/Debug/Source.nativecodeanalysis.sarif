@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32825.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/ssn-class/ssn-semester-7/graphics and multimedia lab/otest/project1/project1/source.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "4e255ff5f0a6e933eb633798c093a069d3d97c8c9ae6e8486e000666fd664b64"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/microsoft visual studio/2022/community/vc/auxiliary/vs/include/gl/glut.h"
+          },
+          "hashes": {
+            "sha-256": "2ee25ba40389f8631d3eddd87be40eafe0ef0801bbaed3d2a994de3b3bb7c504"
+          }
+        }
+      ]
+    }
+  ]
+}

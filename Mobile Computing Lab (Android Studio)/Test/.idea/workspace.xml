@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72fb6cf5-ae67-4fe5-a833-5e72bd09a894" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Ajay_D_Kshemkalyani_Mukesh_Singhal_Distributed Systems.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/205001101_A1_DS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/205001101_A1_DS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/Assignment 1 Distributed Systems.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/Assignment 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/Assignment 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/Assignment 2 Distributed Systems.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/Assignment 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/Assignment 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Assignment/Distributed Systems Assignment 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/CAT 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/CAT 3 .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Cat 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/UCS1701-DistributedSystems-Syllabus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1 - CSE B/Evolution of Distributed Systems.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1 - CSE B/Lecture1_IntroductionToDS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1 - CSE B/Lecture3_Challenges in DS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1 - CSE B/Lecture4_Applications of DS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1 - CSE B/Lecture5_DistributedComputation_GlobalStates_Cuts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1 - CSE B/Lecture7_Physical_Logical_Vector_Clocks_2023-2024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1 - CSE B/Questions .txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1/Challenges.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1/Introduction to Distributed Systems.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1/Screenshot 2023-09-04 133459.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 1/Screenshot 2023-09-04 133831.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture1-Causal Partial and Total Order.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture2-GroupCommunications.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture3_BSS_Protocol_CausalOrdering-Broadcast.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture4_SES_Protocol-CausalOrdering-UnicastMulticast-Protocol.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture5_DistributedComputation_GlobalStates_Cuts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture5_Local  Global_State.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture6_Chandy_Lamport_Snapshot_Algorithm2019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2 - CSE B/Lecture7_Physical_Logical_Vector_Clocks_2023-2024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/Absence of global memory.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM NB/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM NB/WhatsApp Image 2023-09-04 at 2.42.41 PM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM NB/WhatsApp Image 2023-09-04 at 2.42.42 PM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM NB/WhatsApp Image 2023-09-04 at 2.42.42 PM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM NB/WhatsApp Image 2023-09-04 at 2.42.42 PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM NB/WhatsApp Image 2023-09-04 at 2.42.43 PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM-B.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/COM-NB.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/GSRA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/Global states.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/Logical-VectorClocks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 2/Physical Clock Sync.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Combined Unit 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture10_Chandy-Misra-Haas Algorithm for OR Model.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture11_DistributedDeadlockDetection_Example2018.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture1_Distributed_Mutex.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture2_Lamports_DMX_Algorithm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture2_Lamports_DMX_Example.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture3_Ricart_AgrawalaDMX_Algorithm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture3_Ricart_Agrawala_DMX_Example2020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture4_Suzuki_Kasami_Token-BasedDMX_Algorithm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture4_Suzuki_Kasami_Token-BasedDMX_Example_2020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture5_Maekawas DMX_Algorithm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture5_Maekawas_DMX_Example2020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture6_Distributed Deadlock.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture7_Knapps Classification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture8_Mitchell and Merritt Algorithm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Lecture9_Chandy-Misra-Haas Algorithm for AND Model.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3 - CSE B/Mitchell Meritt-Single Resource Model Example.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3/D Mutex - Token-based.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 3/D-Mutex Non-Token-based.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Lecture1_Checkpointing-RollbackRecovery-Introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Lecture2_Checkpoint-Based-Recovery.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Lecture3_Log-based_RollbackRecovery.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Lecture6_Consensus_Agreement.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Lecture6_Consensus_Problems.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Lecture7_ConsensusAgreement-SynchronousAlgorithms.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Livelock and Domino Effects.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4 - CSE B/Syn-Asyn-CheckpointRecovery-AOS.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4/Byzantine Agreement.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4/Checkpointing &amp; recovery.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 4/checkpoints-recoveryDS.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lamports Bakery Algorithm for DSM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lecture1_DSM_Introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lecture1_P2P_Napster_Bit-torrent Redmade.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lecture1_P2P_Napster_Bit-torrent.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lecture2_MemoryConsistency.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lecture4_P2P_Napster_DataIndexing_DHT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lecture5_StructureUnstructuredOverlay.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5 - CSE B/Lecture9_Tapestry-A Case Study.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/Unit 5/lamport's Bakery.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Distributed Systems/WhatsApp Image 2023-10-09 at 6.28.58 PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/2015 3rd Heterogeneous Computing with OpenCL 2.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/CAT/CAT-1 KEY.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/CAT/CAT-1 QP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/CAT/CAT-2 KEY.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/CAT/CAT-2 QP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/CUDA Programming A Developers Guide to Parallel Computing with GPUs.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/UCS1727  GPU COMPUTINGSYLLABUS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/LOOP UNROLLING.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/BLOCKS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/C U D A  Programming model.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/CUDA COMPUTE LEVELS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/Core 2 series Architecture.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/FERMI GPU.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/GLOBAL MEMORY.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/GPU Basics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/GRIDS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/MEMORY HANDLING.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/MERGING LISTS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/PARALLEL REDUCTION.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/RADIS SORT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/SEARCHING.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/TEXTURE  CONSTANT MEMORY.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/THREADS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/VECTOR ADDITION.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1 MATERIAL-20230910/WARPS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 1/UNIT-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 2/UNIT-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 2/problems.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 2/streams.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 3/UNIT-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 4/UNIT-4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GPU Computing/Unit 5/UNIT-5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/EX1/FileContentIndex/9849c3cf-04a4-4264-bcdf-1a669985909a.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/EX1/FileContentIndex/b41d0683-a1f6-413a-849b-cab070d543ce.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/EX1/FileContentIndex/bcd30753-9fb0-49dc-9798-64c3acc9cc44.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/EX1/v17/.wsuo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/EX1/v17/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/EX1/v17/ipch/AutoPCH/9458ffd31acbc03c/EX1.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/ProjectSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/Assignment 1 - Modified.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/Assignment 1 - Modified.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/Assignment 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/Assignment 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/CppProperties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/Ex1 (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/Ex1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/ex1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/ex1b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX1/ex1c.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX10/Assignment 10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX10/Assignment 10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX10/Ex10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX10/edit.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX10/ex10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX10/harsha Ex10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX10/harshavardhan205001045.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX11/Assignment 11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX11/Assignment 11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX11/Ex11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX11/harshavardhan205001045 (3).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX11/harshavardhan205001045 11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX12/Assignment 12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX12/Assignment 12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX12/Ex12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX12/harshavardhan205001045 (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX12/harshavardhan205001045 12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Assignment 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Assignment 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Ex2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.31.30 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.32.44 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.33.50 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.36.25 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.37.02 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.38.02 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.38.38 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.39.20 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.40.17 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/Screen Shot 2023-09-04 at 10.40.28 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/ex2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/old sc/Screen Shot 2023-08-28 at 11.29.52 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/old sc/Screen Shot 2023-08-28 at 11.32.53 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/old sc/Screen Shot 2023-08-28 at 11.34.11 AM .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/old sc/Screen Shot 2023-08-28 at 11.34.11 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/old sc/Screen Shot 2023-08-28 at 11.38.14 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX2/old sc/ex2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Assignment 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Assignment 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Ex3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.31.30 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.32.44 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.33.50 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.36.25 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.37.02 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.38.02 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.38.38 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.39.20 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.40.17 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/Screen Shot 2023-09-04 at 10.40.28 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX3/ex3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX4/Assignment 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX4/Assignment 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX4/Ex4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX4/Screen Shot 2023-09-04 at 11.43.43 am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX4/ex4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX5/Assignment 5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX5/Assignment 5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX5/ex5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX6/Assignment 6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX6/Assignment6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX6/ex6a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX6/ex6b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX7/Assignment 7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX7/Assignment 7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX7/Ex7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX7/ex7a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX8/Assignment 8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX8/Assignment 8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX8/Ex8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX8/ex8a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX9/Assignment 9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX9/Assignment 9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX9/Ex9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX9/edit.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX9/ex9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX9/harshavardhan205001045 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/EX9/harshavardhan205001045-9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/FileContentIndex/21582f20-e7f5-4210-a294-f8be142561f0.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/FileContentIndex/4db00eea-cfe1-4b4d-b686-023697d1a481.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/FileContentIndex/4e92d136-92c4-47f5-8933-cbce30e9faa8.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/FileContentIndex/7223a923-f2d8-4cad-86ed-b36ec336f93a.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/FileContentIndex/dedc71df-e5f0-4291-8e06-3dd16e31c145.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/19ff12fac3569895/EX2.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/2e332fcd6d0543b7/SOURCE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/2e89da04a8404681/EX1.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/35fc185eba868cae/SOURCE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/4fb07e9cb08f4c15/EX5.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/5b26a345ee3ac988/HOUSE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/6bb6dab65dfe33c8/HULAHOOP.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/7e9697e55b96e628/TEMPLATE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/7fad2eddaf8d32cd/EX4.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/80dcbbf7b0f2ed63/MAIN.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/859b90dafec2eaf/DART.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/94a92ac0b47e894b/DART.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/a07cd9dbc449047d/EX3.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/c15ec32fd891ecf2/CIRCLE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/c25d768d2f4dec24/TEMPLATE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/c3dc1d88f0581616/MAIN.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/dcf4ebafb6638816/TEMPLATE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/de382df0162b980c/MAIN.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/e54c2e900eee7c68/EX1.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/e643a81fad059930/VCTMP9784_140993.SOURCE.00000000.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/e888fd78f6c070c8/MAIN.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/e9ca26b5653af31d/TEMPLATE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/ec79193c5c7c975b/EZ0K2VLK..ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/fa3df725b5e76b6d/EX2.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/fc690029c7d27af6/CIRCLE.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/.vs/Project1/v17/ipch/AutoPCH/fd5cda87f6f8c6ca/MAIN.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Debug/Project1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Debug/Project1.exe.lastcodeanalysissucceeded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Debug/Project1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Circle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Circle.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/CodeAnalysisResultManifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.Build.CppClean.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/Cl.items.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/Project1.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.tlog/unsuccessfulbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Project1.vcxproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/Source.nativecodeanalysis.sarif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/source.obj.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/vc143.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Debug/vc143.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/HulaHoop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Project1.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Project1.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Project1.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Source.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/Template.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/dart.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/house.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/Project1.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/link.read.2.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Project1.tlog/unsuccessfulbuild" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/Source.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/vc143.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/Project1/x64/Debug/vc143.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/OTEST/Project1/x64/Debug/Project1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/EX7/67_ex7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/GML_A1_309.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/Screenshot 2023-08-10 at 2.46.00 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/gml_67_ex1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/gml_89.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/line loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/line strip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/lines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/main_checker.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/main_house.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/points.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/poly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/quad strip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex1/quads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/gml_067_ex2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/gml_67_ex2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/neg_lr_mg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/neg_lr_ml1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/neg_rl_mg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/neg_rl_ml1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/pos_lr_mg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/pos_lr_ml1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/pos_rl_mg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex2/pos_rl_ml1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex3/77_Ex3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex3/EX3_205001078.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex3/gml_67_ex3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex3/gml_89_3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex4/EX4_205001078.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex4/Screenshot 2023-09-07 at 2.36.31 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex4/gml89_4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex4/gml_67_ex4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex4/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex4/praveenl2.xcodeproj.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/205001077_ex5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/reflect_ori.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/reflect_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/reflect_xy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/reflect_y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/rot_fixed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/rot_ori.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/scale_fixed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/scale_ori.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/shear_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/shear_y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex5/translation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex6/67_Ex6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex6/Screenshot 2023-10-12 at 1.55.35 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex6/gml6_89.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia lab/Study/Ex6/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Computer Graphics C Version by Donald Hearn &amp; M Pauline Baker II Edition.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/GM Syllabus-Lessonplan-CO-PO mapping.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 1/3. Line_Algorithms_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 1/Circle_Ellipse_drawing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 1/DisplayDevices.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 1/Intro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 1/Pixel_Addressing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 2/2D transformations.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 2/2DViewing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 2/Compositetransformations.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 2/LineClipping.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 2/PolygonClipping.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 2/Tutorial in Line,circle, ellipse drawing and 2D Graphics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 2/Tutorial on Line and Polygon clipping algorithms.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/3D Concepts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/3D Viewing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/3d object representations.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/Arbitary Rotation proof.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/Arbitary Rotation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/Transformations_3d.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/Tutorial 2 - 3D clipping.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 3/Viewvolumes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 4/Animations.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 4/Color models (1).ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 4/Color models.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 4/Introduction to Shading models.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 5/CompressionDecompression.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 5/Multimedia Architecture Objects and Standards.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphics and Multimedia/Unit 5/ssg_m1l1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Cybersecurity Ethics An Introduction by Mary Manjikian.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Introduction to engineering ethics by Mike W Martin Roland Schinzinger.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/MEP-Syllabus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Management by Robins 11th ed.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Professional Ethics and Human Values by Naagarazan.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture 6- Planning.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture1-Introduction to Management.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture1-Nature and Purpose of Organizing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture2-Line and Staff Authority, Departmentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture2-Types of Managers, Managerial Skills and Roles.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture3-Evolution of Management.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture4-Managing Globally.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture5-Strategies for International Business.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1 CSE B/Lecture7-Decision Making Process, Types and Styles.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Decision Making Process, Types and Styles.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Evolution of Management.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Introduction to Management.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Managing Globally.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Organizational Culture and Environment.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Planning Process and Types of Plans.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Rational Decision Making.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Strategies for International Business.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 1/Types of Managers, Managerial Skills and Roles-GR.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/1 - Nature and Purpose of Organizing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/10 - Hurdles to Effective Communication.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/2 - Line and Staff Authority, Departmentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/3 - Delegation of Authority.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/4 - Centralization and Decentralization.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/5 - HRM - Planning, Recruitment and Selection.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/6 - HRM - Training  Development, Current Issues.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/7 - Motivation - Theories  Techniques.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/8 - Leadership.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/9 - Process of Communication  Effective Communication.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 2/Unit2 Complete.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/1. Senses of Engineering Ethics, Variety of Moral issues and Types of Inquiry.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/2. Moral Dilemma and Moral Autonomy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/3. Kohlbergs Theory and Gilligans Theory.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/4. Consensus  Controversy, Models of Professional Roles.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/5. Theories about right action, Self interest, Customs and religion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/6. Uses of Ethical theories.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/7. Ethics in AI and ML.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 3/Unit3 Complete.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 4/1. Assessment of Safety and Risk.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 4/2. Risk Benefit Analysis and Reducing Risk.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 4/3. Respect for Authority and Collective Bargaining.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 4/4. Confidentiality, Conflict of Interest and Occupational Crime.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 4/5. Professional Rights, Employee Rights, IPR and Discrimination.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/3-IntroToCybersecurityEthics-CaseStudies.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/CSE B/Lecture 2- Access Control.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/CSE B/Lecture 2- Access Control.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/CSE B/Lecture1-Computer Ethics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/DER-CybersecurityChallenges1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/Lecture1-Computer Ethics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/Lecture2-Legal and Ethical Aspects.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Management and Ethical Practices/Unit 5/Lecture5-CyberEthics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Assignment 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Assignment 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/DisplayDataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Ex.No.1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/.idea/Health Insurance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/androidTest/java/com/example/healthinsurance/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/java/com/example/healthinsurance/DisplayDataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/java/com/example/healthinsurance/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/layout/activity_display_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/app/src/test/java/com/example/healthinsurance/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/Health Insurance/HealthInsurance/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/activity_display_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/image (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/image (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/image(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX1/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/Assignment11 - Record.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/Assignment11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/Assignment11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/Exercise11_Menu.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/MAD-205001043-EX-11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/countries.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/mainactivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX11/strings.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX12/Assignment 12 - Record.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX12/Assignment 12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX12/Assignment12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX12/Exercise12_webpage.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX12/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX12/ex12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX12/mainactivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Assignment 2 - Mobile computing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Assignment 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Assignment 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/androidTest/java/com/example/keyboard/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/java/com/example/keyboard/DisplayActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/java/com/example/keyboard/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/layout/activity_display.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/app/src/test/java/com/example/keyboard/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/Keyboard/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2/ex2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/.idea/EX3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/Assignment 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/Assignment 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/Screenshot_1695274296.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/Screenshot_1695274299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/Screenshot_1695274302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/Screenshot_1695274305.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/Screenshot_1695274313.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.vs/ProjectSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.vs/ex3/FileContentIndex/290a9b49-7c15-41ac-97dc-b51d0a7196a2.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.vs/ex3/v17/.wsuo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/androidTest/java/com/example/ex3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/java/com/example/ex3/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable/car.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable/car_body_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable/car_door_left.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable/carwheel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable/carwin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/drawable/rect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/app/src/test/java/com/example/ex3/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/ex3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX3/ex3/ex3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Assignment 4 alone.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Assignment 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/EX4 alone.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Ex.4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/androidTest/java/com/example/products/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/DatabaseContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/DeleteActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/InsertActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/SearchActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/UpdateActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/java/com/example/products/ViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/layout/delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/layout/insert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/layout/search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/layout/update.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/layout/view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/app/src/test/java/com/example/products/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Products/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-30-44-13_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-30-56-91_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-31-11-93_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-31-20-11_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-31-30-10_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-31-33-15_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-31-40-12_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4/Screenshot_2023-09-30-21-33-09-62_7cebbb26736b6f4d58e24821970f5de6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/Assignment 5 alone.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/Assignment 5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/Assignment 5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/vikash.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/vikash.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/Assignment 6 - Record.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/Assignment 6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/Assignment 6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/Ex6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/activity_main1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/mainactivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/mainactivity1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6_7_8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/Assignment 7 - Record.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/Assignment 7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/Assignment 7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/Ex7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/activity_read.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/mainactivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/readactivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX8/Assignment 8 - Record.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX8/Assignment 8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX8/Assignment 8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX8/Ex8_SMS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX8/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX8/mainReceive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX8/mainactivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/Assignment 9 - Record.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/Assignment 9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/Assignment9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/In.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/alarm-clock.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/alarmReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/display.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/ex9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX9/mainactivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/java/com/example/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/SampleTest/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/Bank Documentation.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/androidTest/java/com/example/mikebanks/bankscorpfinancial/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/AccountOverviewFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/Adapters/AccountAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/Adapters/TransactionAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/CreateProfileFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/DashboardFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/DrawerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/LaunchActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/LoginFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/Model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/Model/Payee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/Model/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/Model/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/Model/db/ApplicationDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/PaymentFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/TransactionFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/java/com/example/mikebanks/bankscorpfinancial/TransferFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-hdpi/dashboard_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-hdpi/ic_action_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-hdpi/nav_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-mdpi/dashboard_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-mdpi/ic_action_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-mdpi/nav_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-mdpi/side_nav_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-v24/dashboard_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-v24/nav_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-xhdpi/dashboard_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-xhdpi/ic_action_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-xhdpi/nav_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-xxhdpi/dashboard_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-xxhdpi/ic_action_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable-xxhdpi/nav_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/about_icon_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/app_icon_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/bank_icon_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/dashboard_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/dashboard_icon_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/day_icon_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/deposit_icon_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/icon_accounts_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/icon_logout_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/icon_payment_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/icon_transfer_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/lst_account_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/lst_deposit_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/lst_payment_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/lst_transfer_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/menu_icon_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/morning_icon_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/nav_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/night_icon_96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/plus_icon_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/drawable/settings_icon_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/account_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/activity_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/activity_launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/deposit_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/drawer_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/fragment_account_overview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/fragment_create_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/fragment_dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/fragment_payment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/fragment_transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/fragment_transfer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/lst_accounts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/lst_transactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/nav_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/payee_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/layout/tool_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/menu/activity_drawer_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/menu/toolbar_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/app/src/test/java/com/example/mikebanks/bankscorpfinancial/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/BankAppDemo/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/MAD Project.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/MAD Project.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/app-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/androidTest/java/com/example/test2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/java/com/example/test2/DisplayItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/java/com/example/test2/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/java/com/example/test2/ShapePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/drawable/rectangle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/layout/activity_display_items.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/layout/activity_shape_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/app/src/test/java/com/example/test2/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/androidTest/java/com/example/Test/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/java/com/example/Test/Female.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/java/com/example/Test/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/java/com/example/Test/Male.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/java/com/example/Test/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/layout/activity_female.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/layout/activity_male.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/layout/activity_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app/src/test/java/com/example/Test/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/androidTest/java/com/example/test3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/java/com/example/test3/DisplayItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/java/com/example/test3/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/java/com/example/test3/ShapePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/layout/activity_display_items.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/layout/activity_shape_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/app/src/test/java/com/example/test3/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/MC - helal sumi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Mobile Theory Syllabus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Report/MC.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Report/MC.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Report/Mobile Computing Project Report (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Report/Mobile Computing Project Report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 1/1-Introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 1/2-MAC Protocols.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 1/3-IEEE wireless LAN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 2/1-Mobile IP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 2/2-Registration.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 2/3-DHCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 2/4-Manet-design issues.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 2/5-Manet routing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 3/1-Traditional TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 3/2-Mobile TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 3/3-WAP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 3/TCP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/1-Generations.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/2-GSM Services, Architecture.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/3-Radio Interface.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/4-Protocols.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/5-Calling, Handover.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/6-GSM Security.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/7-GPRS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 4/8-UMTS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/Android Architecture - GeeksforGeeks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/Android Architecture.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/Android SDK and it's Components - GeeksforGeeks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/Architecture of IOS Operating System.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/Components of an Android Application - GeeksforGeeks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/IOS and Android CAT 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/Mobile Computing Project Report (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/Mobile-Web.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/Unit 5/iOS - Getting Started.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mobile Computing/[Jochen_Schiller]_Mobile_Communications_(2nd_Editi(z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sem 7 - CAT QP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Project/Social Networks Analysis Miniproject.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Project/Social Networks Analysis Miniproject.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Project/Social Networks Analysis Miniproject1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Project/miniproject_SNA.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Project/miniproject_SNA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/SNA-Syllabus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Social Network Analysis Methods and Applications.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Social Networks and the Semantic Web.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 1/Genesis.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 1/SNA-lect1-networks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 1/SNA-lect3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 1/SNA-lect5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 1/SNA-lect6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 1/SNA-lect9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 2/Graph and Matrices (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 2/Graph and Matrices.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 2/Reachability Matrix Problem.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 2/SNA2-lect1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 2/SNA2-lect3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 2/SNA2-ppt2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/ApplicationAreasofCommunityDetection_AReview.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Applications NCMP/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/GN Community Detection Problem-20231016/GN1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/GN Community Detection Problem-20231016/GN2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/GN Community Detection Problem-20231016/GN3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/GN Optimization Modularity-20231016/opt11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/GN Optimization Modularity-20231016/opt22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/SNA-Chapter3-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/SNA3-Chapter3-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 3/Triads.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/Grpahs-and-Traversals-NetworkX.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/Island_in_Net.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/NetworkDraw.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/Network_Creation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/PYTHON/island_in_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/PYTHON/livejournal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/PYTHON/network_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/PYTHON/networkdraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/PYTHON/path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/PYTHON/readedgelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/livejournal.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/path.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX Codes/readedgelist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/Unit 4/NetworkX.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Social Network Analysis/sna.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../github.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2YKtgUKNEMnY0gyofO5hOi1mVLx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72fb6cf5-ae67-4fe5-a833-5e72bd09a894" name="Changes" comment="" />
+      <created>1700286212202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700286212202</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

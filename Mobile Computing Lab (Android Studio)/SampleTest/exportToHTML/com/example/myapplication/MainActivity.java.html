@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>MainActivity.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cc7832;}
+.s1 { color: #a9b7c6;}
+.s2 { color: #6897bb;}
+.s3 { color: #6a8759;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+MainActivity.java</font>
+</center></td></tr></table>
+<pre><span class="s0">package </span><span class="s1">com.example.myapplication</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.content.pm.PackageManager</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.location.Address</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.location.Geocoder</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.location.Location</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.os.Bundle</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.view.View</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.widget.Button</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.widget.EditText</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.widget.TextView</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">android.widget.Toast</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">androidx.annotation.NonNull</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">androidx.appcompat.app.AppCompatActivity</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">androidx.core.app.ActivityCompat</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">androidx.core.content.ContextCompat</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">com.google.android.gms.location.FusedLocationProviderClient</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">com.google.android.gms.location.LocationServices</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">com.google.android.gms.tasks.OnSuccessListener</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">java.io.IOException</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">java.util.List</span><span class="s0">;</span>
+<span class="s0">import </span><span class="s1">java.util.Locale</span><span class="s0">;</span>
+<span class="s0">public class </span><span class="s1">MainActivity </span><span class="s0">extends </span><span class="s1">AppCompatActivity {</span>
+    <span class="s0">private static final int </span><span class="s1">LOCATION_PERMISSION_REQUEST = </span><span class="s2">1</span><span class="s0">;</span>
+    <span class="s0">private </span><span class="s1">FusedLocationProviderClient fusedLocationProviderClient</span><span class="s0">;</span>
+    <span class="s0">private </span><span class="s1">EditText locationNameEditText</span><span class="s0">;</span>
+    <span class="s0">private </span><span class="s1">Button searchLocationButton</span><span class="s0">;</span>
+    <span class="s0">private </span><span class="s1">TextView latitudeTextView</span><span class="s0">, </span><span class="s1">longitudeTextView</span><span class="s0">, </span><span class="s1">searchLatitudeTextView</span><span class="s0">,</span><span class="s1">searchLongitudeTextView</span><span class="s0">;</span>
+    <span class="s1">@Override</span>
+    <span class="s0">protected void </span><span class="s1">onCreate(Bundle savedInstanceState) {</span>
+        <span class="s0">super</span><span class="s1">.onCreate(savedInstanceState)</span><span class="s0">;</span>
+        <span class="s1">setContentView(R.layout.activity_main)</span><span class="s0">;</span>
+        <span class="s1">fusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(</span><span class="s0">this</span><span class="s1">)</span><span class="s0">;</span>
+        <span class="s1">locationNameEditText = findViewById(R.id.locationNameEditText)</span><span class="s0">;</span>
+        <span class="s1">searchLocationButton = findViewById(R.id.searchLocationButton)</span><span class="s0">;</span>
+        <span class="s1">latitudeTextView = findViewById(R.id.latitudeTextView)</span><span class="s0">;</span>
+        <span class="s1">longitudeTextView = findViewById(R.id.longitudeTextView)</span><span class="s0">;</span>
+        <span class="s1">searchLatitudeTextView = findViewById(R.id.searchLatitudeTextView)</span><span class="s0">;</span>
+        <span class="s1">searchLongitudeTextView = findViewById(R.id.searchLongitudeTextView)</span><span class="s0">;</span>
+        <span class="s1">findViewById(R.id.getLocationButton).setOnClickListener(</span><span class="s0">new </span><span class="s1">View.OnClickListener() {</span>
+            <span class="s1">@Override</span>
+            <span class="s0">public void </span><span class="s1">onClick(View view) {getLocation()</span><span class="s0">;           </span><span class="s1">}</span>
+        <span class="s1">})</span><span class="s0">;</span>
+        <span class="s1">searchLocationButton.setOnClickListener(</span><span class="s0">new </span><span class="s1">View.OnClickListener() {</span>
+            <span class="s1">@Override</span>
+            <span class="s0">public void </span><span class="s1">onClick(View view) {</span>
+                <span class="s1">searchLocation()</span><span class="s0">;</span>
+            <span class="s1">}</span>
+        <span class="s1">})</span><span class="s0">;</span>
+    <span class="s1">}</span>
+    <span class="s0">private void </span><span class="s1">getLocation() {</span>
+        <span class="s0">if </span><span class="s1">(ContextCompat.checkSelfPermission(</span><span class="s0">this,</span>
+                <span class="s1">android.Manifest.permission.ACCESS_FINE_LOCATION) ==</span>
+                <span class="s1">PackageManager.PERMISSION_GRANTED) {</span>
+            <span class="s1">fusedLocationProviderClient.getLastLocation().addOnSuccessListener(</span><span class="s0">new </span><span class="s1">OnSuccessListener &lt; Location &gt; () {</span>
+                <span class="s1">@Override</span>
+                <span class="s0">public void </span><span class="s1">onSuccess(Location location) {</span>
+                    <span class="s0">if </span><span class="s1">(location != </span><span class="s0">null</span><span class="s1">) {</span>
+                        <span class="s0">double </span><span class="s1">latitude = location.getLatitude()</span><span class="s0">;</span>
+                        <span class="s0">double </span><span class="s1">longitude = location.getLongitude()</span><span class="s0">;</span>
+                        <span class="s1">latitudeTextView.setText(</span><span class="s3">&quot;Latitude: &quot; </span><span class="s1">+ latitude)</span><span class="s0">;</span>
+                        <span class="s1">longitudeTextView.setText(</span><span class="s3">&quot;Longitude: &quot; </span><span class="s1">+ longitude)</span><span class="s0">;</span>
+                    <span class="s1">} </span><span class="s0">else </span><span class="s1">{</span>
+                        <span class="s1">showToast(</span><span class="s3">&quot;Location not available&quot;</span><span class="s1">)</span><span class="s0">;</span>
+                    <span class="s1">}</span>
+                <span class="s1">}</span>
+            <span class="s1">})</span><span class="s0">;</span>
+        <span class="s1">} </span><span class="s0">else </span><span class="s1">{</span>
+            <span class="s1">ActivityCompat.requestPermissions(</span><span class="s0">this, new </span><span class="s1">String[] {</span>
+                    <span class="s1">android.Manifest.permission.ACCESS_FINE_LOCATION</span>
+            <span class="s1">}</span><span class="s0">,</span><span class="s1">LOCATION_PERMISSION_REQUEST)</span><span class="s0">;</span>
+        <span class="s1">}</span>
+    <span class="s1">}</span>
+    <span class="s0">private void </span><span class="s1">searchLocation() {</span>
+        <span class="s1">String locationName = locationNameEditText.getText().toString().trim()</span><span class="s0">;</span>
+        <span class="s0">if </span><span class="s1">(!locationName.isEmpty()) {</span>
+            <span class="s1">Geocoder geocoder = </span><span class="s0">new </span><span class="s1">Geocoder(</span><span class="s0">this, </span><span class="s1">Locale.getDefault())</span><span class="s0">;</span>
+            <span class="s0">try </span><span class="s1">{</span>
+                <span class="s1">List &lt; Address &gt; addresses =</span>
+                        <span class="s1">geocoder.getFromLocationName(locationName</span><span class="s0">, </span><span class="s2">1</span><span class="s1">)</span><span class="s0">;</span>
+                <span class="s0">if </span><span class="s1">(addresses != </span><span class="s0">null </span><span class="s1">&amp;&amp; !addresses.isEmpty()) {</span>
+                    <span class="s1">Address address = addresses.get(</span><span class="s2">0</span><span class="s1">)</span><span class="s0">;</span>
+                    <span class="s0">double </span><span class="s1">latitude = address.getLatitude()</span><span class="s0">;</span>
+                    <span class="s0">double </span><span class="s1">longitude = address.getLongitude()</span><span class="s0">;</span>
+                    <span class="s1">searchLatitudeTextView.setText(</span><span class="s3">&quot;Searched Latitude: &quot; </span><span class="s1">+ latitude)</span><span class="s0">;</span>
+                    <span class="s1">searchLongitudeTextView.setText(</span><span class="s3">&quot;Searched Longitude: &quot; </span><span class="s1">+ longitude)</span><span class="s0">;</span>
+                <span class="s1">} </span><span class="s0">else </span><span class="s1">{</span>
+                    <span class="s1">showToast(</span><span class="s3">&quot;Location not found&quot;</span><span class="s1">)</span><span class="s0">;</span>
+                <span class="s1">}</span>
+            <span class="s1">} </span><span class="s0">catch </span><span class="s1">(IOException e) {</span>
+                <span class="s1">e.printStackTrace()</span><span class="s0">;</span>
+                <span class="s1">showToast(</span><span class="s3">&quot;Geocoding error&quot;</span><span class="s1">)</span><span class="s0">;</span>
+            <span class="s1">}</span>
+        <span class="s1">} </span><span class="s0">else </span><span class="s1">{</span>
+            <span class="s1">showToast(</span><span class="s3">&quot;Please enter a location name&quot;</span><span class="s1">)</span><span class="s0">;</span>
+        <span class="s1">}</span>
+    <span class="s1">}</span>
+    <span class="s1">@Override</span>
+    <span class="s0">public void </span><span class="s1">onRequestPermissionsResult(</span><span class="s0">int </span><span class="s1">requestCode</span><span class="s0">, </span><span class="s1">@NonNull String[] permissions</span><span class="s0">, </span><span class="s1">@NonNull </span><span class="s0">int</span><span class="s1">[] grantResults) {</span>
+        <span class="s0">super</span><span class="s1">.onRequestPermissionsResult(requestCode</span><span class="s0">, </span><span class="s1">permissions</span><span class="s0">, </span><span class="s1">grantResults)</span><span class="s0">;</span>
+        <span class="s0">if </span><span class="s1">(requestCode == LOCATION_PERMISSION_REQUEST) {</span>
+            <span class="s0">if </span><span class="s1">(grantResults.length &gt; </span><span class="s2">0 </span><span class="s1">&amp;&amp; grantResults[</span><span class="s2">0</span><span class="s1">] ==</span>
+                    <span class="s1">PackageManager.PERMISSION_GRANTED) {</span>
+                <span class="s1">getLocation()</span><span class="s0">;</span>
+            <span class="s1">} </span><span class="s0">else </span><span class="s1">{</span>
+                <span class="s1">showToast(</span><span class="s3">&quot;Location permission denied&quot;</span><span class="s1">)</span><span class="s0">;</span>
+            <span class="s1">}</span>
+        <span class="s1">}</span>
+    <span class="s1">}</span>
+    <span class="s0">private void </span><span class="s1">showToast(String message) {</span>
+        <span class="s1">Toast.makeText(</span><span class="s0">this, </span><span class="s1">message</span><span class="s0">, </span><span class="s1">Toast.LENGTH_SHORT).show()</span><span class="s0">;</span>
+    <span class="s1">}</span>
+<span class="s1">}</span></pre>
+</body>
+</html>

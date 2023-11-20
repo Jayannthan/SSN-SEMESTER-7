@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Details"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        />
+
+    <LinearLayout
+        android:id="@+id/namespace"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/heading"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/getname"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Name"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/addressspace"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/namespace"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Address"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/getaddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Address"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/foodspace"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/addressspace"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Order"
+            android:textSize="20dp"
+            />
+
+        <CheckBox
+            android:id="@+id/rice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rice" />
+        <CheckBox
+            android:id="@+id/chappati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chappati" />
+        <CheckBox
+            android:id="@+id/dosa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dosa" />
+        <CheckBox
+            android:id="@+id/juice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Juice" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/phonespace"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/foodspace"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Contact"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/getphone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Phone number"
+            />
+    </LinearLayout>
+
+    <Button
+        android:layout_below="@+id/phonespace"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/submitbutton"
+        />
+    <Button
+        android:layout_below="@+id/submitbutton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Shape Page"
+        android:id="@+id/Shape"
+        />
+</RelativeLayout>

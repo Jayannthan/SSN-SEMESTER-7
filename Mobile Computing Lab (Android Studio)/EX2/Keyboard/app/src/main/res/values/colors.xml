@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_background">#FF2196F3</color> <!-- Blue 500 -->
+    <color name="button_text">#FFFFFFFF</color> <!-- White -->
+    <color name="button_pressed">#FF1976D2</color> <!-- Blue 700 -->
+    <color name="key_background">#FFBBDEFB</color> <!-- Blue 200 -->
+    <color name="key_text">#FF000000</color> <!-- Black -->
+    <color name="editor_background">#FFFFFFFF</color> <!-- White -->
+    <color name="editor_text">#FF000000</color> <!-- Black -->
+</resources>
