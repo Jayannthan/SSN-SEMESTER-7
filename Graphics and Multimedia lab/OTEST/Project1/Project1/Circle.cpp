@@ -1,7 +1,8 @@
-#include<stdio.h>
-#include<GL/glut.h>
+#include <stdio.h>
+#include <GL/glut.h>
 
-void init() {
+void init()
+{
 	glClearColor(1, 0, 0, 0);
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
@@ -10,7 +11,8 @@ void init() {
 	glLoadIdentity();
 }
 
-void plotpoints(int x, int y, int xc, int yc) {
+void plotpoints(int x, int y, int xc, int yc)
+{
 	glColor3d(1, 1, 1);
 
 	glBegin(GL_POINTS);
@@ -23,36 +25,37 @@ void plotpoints(int x, int y, int xc, int yc) {
 	glVertex2d(y + xc, -x + yc);
 	glVertex2d(-y + xc, -x + yc);
 	glEnd();
-
 }
 
-void display() {
+void display()
+{
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3d(0, 0, 0);
 
 	glPointSize(5);
 
-
 	float r = 100, pk = 1 - r, x = r, y = 0;
 	int xc = 0, yc = 0;
-	while (x > y) {
+	while (x > y)
+	{
 		y++;
-		if (pk < 0) {
+		if (pk < 0)
+		{
 			pk += (2 * y) + 1;
 		}
-		else {
+		else
+		{
 			x--;
 			pk += (2 * y) + 1 - (2 * x);
 		}
 		plotpoints(x, y, xc, yc);
 	}
 
-
 	glFlush();
-
 }
 
-int main(int argc, char** argv) {
+int main(int argc, char **argv)
+{
 
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
@@ -61,5 +64,4 @@ int main(int argc, char** argv) {
 	glutDisplayFunc(display);
 	init();
 	glutMainLoop();
-
 }

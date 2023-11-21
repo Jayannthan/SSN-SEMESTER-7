@@ -3,10 +3,11 @@
 #include<string>
 #include<cmath>
 using namespace std;
-void drawString(float x, float y, const char *string) {
+void drawString(float x, float y) {
     glRasterPos2f(x, y);
-    for (const char *c = string; *c != '\0'; c++) {
-        glutBitmapCharacter(GLUT_BITMAP_HELVETICA_12, *c);
+	string str="("+to_string(x)+","+to_string(y)+")";
+    for (auto c:str) {
+        glutBitmapCharacter(GLUT_BITMAP_HELVETICA_12, c);
     }
 }
 void myInit() {

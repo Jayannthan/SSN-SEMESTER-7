@@ -1,2 +1,2 @@
 ﻿  Source.cpp
-  Project1.vcxproj -> D:\SSN-Class\SSN-SEMESTER-7\Graphics and Multimedia lab\OTEST\Project1\Debug\Project1.exe
+LINK : fatal error LNK1201: error writing to program database 'D:\SSN-Class\SSN-SEMESTER-7\Graphics and Multimedia lab\OTEST\Project1\Debug\Project1.pdb'; check for insufficient disk space, invalid path, or insufficient privilege
