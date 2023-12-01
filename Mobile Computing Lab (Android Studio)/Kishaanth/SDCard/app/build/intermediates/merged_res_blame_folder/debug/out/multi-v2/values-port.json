@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.sdcard.app-mergeDebugResources-22:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "D:\\Android Studio\\jbr\\bin\\caches\\transforms-3\\990f72afd2b054a4fc23a2ac1271a97f\\transformed\\appcompat-1.4.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

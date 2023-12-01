@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id lat_ipt
+id lat_val
+id loc_ipt
+id lon_ipt
+id lon_val
+id search_btn
+id search_loc
+id search_loc_1
+id write_loc
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.GPS
+style Theme.GPS
+xml backup_rules
+xml data_extraction_rules

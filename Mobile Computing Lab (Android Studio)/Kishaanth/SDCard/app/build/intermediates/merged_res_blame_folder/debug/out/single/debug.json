@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sdcard.app-merged_res-24:/layout_activity_main.xml.flat",
+        "source": "com.example.sdcard.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\xml_backup_rules.xml.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\layout_activity_main.xml.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android Studio\\jbr\\bin\\daemon\\8.0\\com.example.sdcard.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

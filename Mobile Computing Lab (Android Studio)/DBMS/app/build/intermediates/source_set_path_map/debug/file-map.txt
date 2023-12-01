@@ -1,0 +1,34 @@
+com.example.dbms.app-lifecycle-viewmodel-savedstate-2.6.1-0 D:\Android Studio\jbr\bin\caches\transforms-3\0adf910531deef42f5921a756e323c17\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.dbms.app-constraintlayout-2.1.4-1 D:\Android Studio\jbr\bin\caches\transforms-3\0da43a5c9525124885d0c43c9f2cdba9\transformed\constraintlayout-2.1.4\res
+com.example.dbms.app-activity-1.8.0-2 D:\Android Studio\jbr\bin\caches\transforms-3\1246285aa7da4f27383a947632689964\transformed\activity-1.8.0\res
+com.example.dbms.app-profileinstaller-1.3.0-3 D:\Android Studio\jbr\bin\caches\transforms-3\134e50b543e4d6d74efba5bd394e9c92\transformed\profileinstaller-1.3.0\res
+com.example.dbms.app-lifecycle-viewmodel-2.6.1-4 D:\Android Studio\jbr\bin\caches\transforms-3\1973987b3ab973edc0e2e42030448968\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.dbms.app-cardview-1.0.0-5 D:\Android Studio\jbr\bin\caches\transforms-3\2496363f9252f6465451b0480f310b74\transformed\cardview-1.0.0\res
+com.example.dbms.app-core-runtime-2.2.0-6 D:\Android Studio\jbr\bin\caches\transforms-3\24b9a6024739e9d11f6918d3610e36a7\transformed\core-runtime-2.2.0\res
+com.example.dbms.app-startup-runtime-1.1.1-7 D:\Android Studio\jbr\bin\caches\transforms-3\24ebc30bfcb59e2c9e25f184aac33484\transformed\startup-runtime-1.1.1\res
+com.example.dbms.app-emoji2-1.2.0-8 D:\Android Studio\jbr\bin\caches\transforms-3\293637d11c7a84493c5851449fc33290\transformed\emoji2-1.2.0\res
+com.example.dbms.app-coordinatorlayout-1.1.0-9 D:\Android Studio\jbr\bin\caches\transforms-3\2a098db7bf76259f0d8ea77f152a3ceb\transformed\coordinatorlayout-1.1.0\res
+com.example.dbms.app-viewpager2-1.0.0-10 D:\Android Studio\jbr\bin\caches\transforms-3\2f350ea99745ae765afc2111b0800f9d\transformed\viewpager2-1.0.0\res
+com.example.dbms.app-drawerlayout-1.1.1-11 D:\Android Studio\jbr\bin\caches\transforms-3\3c9dff0f482c5783d03010ff5f15da68\transformed\drawerlayout-1.1.1\res
+com.example.dbms.app-lifecycle-livedata-core-2.6.1-12 D:\Android Studio\jbr\bin\caches\transforms-3\41c52f755107c8fb94659b001a1461ec\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.dbms.app-core-1.9.0-13 D:\Android Studio\jbr\bin\caches\transforms-3\4f144917642e7cf2dcc7fea15e15ed71\transformed\core-1.9.0\res
+com.example.dbms.app-fragment-1.3.6-14 D:\Android Studio\jbr\bin\caches\transforms-3\5369c9cd727ef9931114476d4c3768bb\transformed\fragment-1.3.6\res
+com.example.dbms.app-lifecycle-runtime-2.6.1-15 D:\Android Studio\jbr\bin\caches\transforms-3\55983a2c835fa2a9d4baab9a4de9d170\transformed\lifecycle-runtime-2.6.1\res
+com.example.dbms.app-material-1.10.0-16 D:\Android Studio\jbr\bin\caches\transforms-3\8e999f00c4d19d5441ba0ae694901d35\transformed\material-1.10.0\res
+com.example.dbms.app-savedstate-1.2.1-17 D:\Android Studio\jbr\bin\caches\transforms-3\8fb30aa65da7004f9fa5a5e66a8f60bf\transformed\savedstate-1.2.1\res
+com.example.dbms.app-recyclerview-1.1.0-18 D:\Android Studio\jbr\bin\caches\transforms-3\9664a3066c0392e37ecf96b21361c16f\transformed\recyclerview-1.1.0\res
+com.example.dbms.app-appcompat-resources-1.6.1-19 D:\Android Studio\jbr\bin\caches\transforms-3\bb289bfda1f6cc70d0c28f3f533708d1\transformed\appcompat-resources-1.6.1\res
+com.example.dbms.app-lifecycle-livedata-2.6.1-20 D:\Android Studio\jbr\bin\caches\transforms-3\c30cc6f51b9649b147bcb36f0dae0fa1\transformed\lifecycle-livedata-2.6.1\res
+com.example.dbms.app-lifecycle-process-2.6.1-21 D:\Android Studio\jbr\bin\caches\transforms-3\cdd84186d9ec1ceea4fabba28ab9cde1\transformed\lifecycle-process-2.6.1\res
+com.example.dbms.app-annotation-experimental-1.3.0-22 D:\Android Studio\jbr\bin\caches\transforms-3\d05560005646959e365d041634a35277\transformed\annotation-experimental-1.3.0\res
+com.example.dbms.app-transition-1.2.0-23 D:\Android Studio\jbr\bin\caches\transforms-3\e692bf33caf252286f4727423dc758c9\transformed\transition-1.2.0\res
+com.example.dbms.app-appcompat-1.6.1-24 D:\Android Studio\jbr\bin\caches\transforms-3\f28aa1b08ae2862db8b20c083382841c\transformed\appcompat-1.6.1\res
+com.example.dbms.app-emoji2-views-helper-1.2.0-25 D:\Android Studio\jbr\bin\caches\transforms-3\f48aae10de68a470caf745388e87f3e2\transformed\emoji2-views-helper-1.2.0\res
+com.example.dbms.app-core-ktx-1.9.0-26 D:\Android Studio\jbr\bin\caches\transforms-3\fd8e7d8d2397580217275ed699ae21af\transformed\core-ktx-1.9.0\res
+com.example.dbms.app-pngs-27 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\DBMS\app\build\generated\res\pngs\debug
+com.example.dbms.app-resValues-28 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\DBMS\app\build\generated\res\resValues\debug
+com.example.dbms.app-packageDebugResources-29 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\DBMS\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.dbms.app-packageDebugResources-30 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\DBMS\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.dbms.app-merged_res-31 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\DBMS\app\build\intermediates\merged_res\debug
+com.example.dbms.app-debug-32 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\DBMS\app\src\debug\res
+com.example.dbms.app-main-33 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\DBMS\app\src\main\res

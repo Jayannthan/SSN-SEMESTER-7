@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id color_text
+id img_view
+id linearLayout
+id no_text
+id resume_btn
+id start_btn
+id stop_btn
+id t1
+id t2
+id t3
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MT
+style Theme.MT
+xml backup_rules
+xml data_extraction_rules

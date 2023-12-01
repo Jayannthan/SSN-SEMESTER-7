@@ -1,0 +1,27 @@
+com.example.sample.app-material-1.6.0-0 C:\Users\ptjay\.gradle\caches\transforms-3\06bb2c1a897634a4c16ccc476952e3d0\transformed\material-1.6.0\res
+com.example.sample.app-annotation-experimental-1.1.0-1 C:\Users\ptjay\.gradle\caches\transforms-3\09c080ebf8c85ccdf731d19967e6ea0a\transformed\annotation-experimental-1.1.0\res
+com.example.sample.app-constraintlayout-2.1.4-2 C:\Users\ptjay\.gradle\caches\transforms-3\0da43a5c9525124885d0c43c9f2cdba9\transformed\constraintlayout-2.1.4\res
+com.example.sample.app-appcompat-resources-1.4.1-3 C:\Users\ptjay\.gradle\caches\transforms-3\1a6c55f02a964768ddfff56294caccef\transformed\appcompat-resources-1.4.1\res
+com.example.sample.app-cardview-1.0.0-4 C:\Users\ptjay\.gradle\caches\transforms-3\2496363f9252f6465451b0480f310b74\transformed\cardview-1.0.0\res
+com.example.sample.app-coordinatorlayout-1.1.0-5 C:\Users\ptjay\.gradle\caches\transforms-3\2a098db7bf76259f0d8ea77f152a3ceb\transformed\coordinatorlayout-1.1.0\res
+com.example.sample.app-viewpager2-1.0.0-6 C:\Users\ptjay\.gradle\caches\transforms-3\2f350ea99745ae765afc2111b0800f9d\transformed\viewpager2-1.0.0\res
+com.example.sample.app-drawerlayout-1.1.1-7 C:\Users\ptjay\.gradle\caches\transforms-3\3c9dff0f482c5783d03010ff5f15da68\transformed\drawerlayout-1.1.1\res
+com.example.sample.app-lifecycle-viewmodel-2.3.1-8 C:\Users\ptjay\.gradle\caches\transforms-3\4fa2c999bba67486447afa261d2a5f2c\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.sample.app-fragment-1.3.6-9 C:\Users\ptjay\.gradle\caches\transforms-3\5369c9cd727ef9931114476d4c3768bb\transformed\fragment-1.3.6\res
+com.example.sample.app-lifecycle-runtime-2.4.0-10 C:\Users\ptjay\.gradle\caches\transforms-3\65003314094bb71814a9cc60cc75b35d\transformed\lifecycle-runtime-2.4.0\res
+com.example.sample.app-core-1.7.0-11 C:\Users\ptjay\.gradle\caches\transforms-3\6670d2d1edfc4f0e3eb241e038e7fb01\transformed\core-1.7.0\res
+com.example.sample.app-recyclerview-1.1.0-12 C:\Users\ptjay\.gradle\caches\transforms-3\9664a3066c0392e37ecf96b21361c16f\transformed\recyclerview-1.1.0\res
+com.example.sample.app-lifecycle-process-2.4.0-13 C:\Users\ptjay\.gradle\caches\transforms-3\a936428711fabcd1435d9bde4a0e8b3a\transformed\lifecycle-process-2.4.0\res
+com.example.sample.app-emoji2-views-helper-1.0.0-14 C:\Users\ptjay\.gradle\caches\transforms-3\b90e560250c387e270643f8b345d2d8e\transformed\emoji2-views-helper-1.0.0\res
+com.example.sample.app-startup-runtime-1.0.0-15 C:\Users\ptjay\.gradle\caches\transforms-3\ce4a859d594189c31d57382afaa6d5cb\transformed\startup-runtime-1.0.0\res
+com.example.sample.app-emoji2-1.0.0-16 C:\Users\ptjay\.gradle\caches\transforms-3\d140407d04606971209da33586b6384b\transformed\emoji2-1.0.0\res
+com.example.sample.app-savedstate-1.1.0-17 C:\Users\ptjay\.gradle\caches\transforms-3\d30c6a835691861b1a3d6ec48d181e7e\transformed\savedstate-1.1.0\res
+com.example.sample.app-appcompat-1.4.1-18 C:\Users\ptjay\.gradle\caches\transforms-3\e220bfca27eb3f65f95d97f5685576b9\transformed\appcompat-1.4.1\res
+com.example.sample.app-transition-1.2.0-19 C:\Users\ptjay\.gradle\caches\transforms-3\e692bf33caf252286f4727423dc758c9\transformed\transition-1.2.0\res
+com.example.sample.app-pngs-20 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Sample\app\build\generated\res\pngs\debug
+com.example.sample.app-resValues-21 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Sample\app\build\generated\res\resValues\debug
+com.example.sample.app-packageDebugResources-22 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Sample\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.sample.app-packageDebugResources-23 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Sample\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.sample.app-merged_res-24 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Sample\app\build\intermediates\merged_res\debug
+com.example.sample.app-debug-25 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Sample\app\src\debug\res
+com.example.sample.app-main-26 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Sample\app\src\main\res

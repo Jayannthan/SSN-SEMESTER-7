@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+array spinnerValues
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn
+id content
+id name
+id read2
+id textView
+id textView3
+id url
+id web_view
+layout activity_main
+layout read
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Website
+style Theme.Website
+xml backup_rules
+xml data_extraction_rules

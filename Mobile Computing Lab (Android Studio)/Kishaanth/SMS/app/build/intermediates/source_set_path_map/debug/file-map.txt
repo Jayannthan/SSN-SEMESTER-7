@@ -1,0 +1,27 @@
+com.example.sms.app-cardview-1.0.0-0 C:\Users\ptjay\.gradle\caches\transforms-3\05282c1f0a97c352c32a939bc2096859\transformed\cardview-1.0.0\res
+com.example.sms.app-coordinatorlayout-1.1.0-1 C:\Users\ptjay\.gradle\caches\transforms-3\058e2b20403460f42e6113003ce03dc3\transformed\coordinatorlayout-1.1.0\res
+com.example.sms.app-lifecycle-viewmodel-2.3.1-2 C:\Users\ptjay\.gradle\caches\transforms-3\1194a5461b413941a0201eebd3fa6d0c\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.sms.app-recyclerview-1.1.0-3 C:\Users\ptjay\.gradle\caches\transforms-3\1fad258d92024336cf18f282cac03aa0\transformed\recyclerview-1.1.0\res
+com.example.sms.app-emoji2-views-helper-1.0.0-4 C:\Users\ptjay\.gradle\caches\transforms-3\4a0e75117a98dd71f8f96ea6b2d86221\transformed\emoji2-views-helper-1.0.0\res
+com.example.sms.app-startup-runtime-1.0.0-5 C:\Users\ptjay\.gradle\caches\transforms-3\52997a770a119cacf1816831d52914d4\transformed\startup-runtime-1.0.0\res
+com.example.sms.app-viewpager2-1.0.0-6 C:\Users\ptjay\.gradle\caches\transforms-3\581a9cb79a8f602c26f7a7528b0ac73d\transformed\viewpager2-1.0.0\res
+com.example.sms.app-savedstate-1.1.0-7 C:\Users\ptjay\.gradle\caches\transforms-3\5922b399b06ed43520023ca22387907e\transformed\savedstate-1.1.0\res
+com.example.sms.app-constraintlayout-2.1.4-8 C:\Users\ptjay\.gradle\caches\transforms-3\5acf9a84f6874f66961cd7fc314b86a2\transformed\constraintlayout-2.1.4\res
+com.example.sms.app-lifecycle-runtime-2.4.0-9 C:\Users\ptjay\.gradle\caches\transforms-3\6b3851b9e89ec30ebbcb1d1d0380b5b7\transformed\lifecycle-runtime-2.4.0\res
+com.example.sms.app-material-1.6.0-10 C:\Users\ptjay\.gradle\caches\transforms-3\79ffa0703ff24c7dd42d78e5279ba1e5\transformed\material-1.6.0\res
+com.example.sms.app-appcompat-resources-1.4.1-11 C:\Users\ptjay\.gradle\caches\transforms-3\7d58666b4d39281709b4ccf8bb2775a3\transformed\appcompat-resources-1.4.1\res
+com.example.sms.app-core-1.7.0-12 C:\Users\ptjay\.gradle\caches\transforms-3\8632e9817b409d6efe439512f8affff2\transformed\core-1.7.0\res
+com.example.sms.app-appcompat-1.4.1-13 C:\Users\ptjay\.gradle\caches\transforms-3\990f72afd2b054a4fc23a2ac1271a97f\transformed\appcompat-1.4.1\res
+com.example.sms.app-emoji2-1.0.0-14 C:\Users\ptjay\.gradle\caches\transforms-3\9f0762a5a8455ce7372350d875a6fda0\transformed\emoji2-1.0.0\res
+com.example.sms.app-fragment-1.3.6-15 C:\Users\ptjay\.gradle\caches\transforms-3\a43d178abaa1b1b6bf236e0f0cca0e16\transformed\fragment-1.3.6\res
+com.example.sms.app-annotation-experimental-1.1.0-16 C:\Users\ptjay\.gradle\caches\transforms-3\e24b9fff51494baa301409d058ed6c72\transformed\annotation-experimental-1.1.0\res
+com.example.sms.app-drawerlayout-1.1.1-17 C:\Users\ptjay\.gradle\caches\transforms-3\e2d2d3c4dd62635dbea352ab171561e5\transformed\drawerlayout-1.1.1\res
+com.example.sms.app-transition-1.2.0-18 C:\Users\ptjay\.gradle\caches\transforms-3\e44573450bfeaacfbe89d93e4952b042\transformed\transition-1.2.0\res
+com.example.sms.app-lifecycle-process-2.4.0-19 C:\Users\ptjay\.gradle\caches\transforms-3\ea868b6ede871eee786b7ec279984714\transformed\lifecycle-process-2.4.0\res
+com.example.sms.app-pngs-20 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Kishaanth\SMS\app\build\generated\res\pngs\debug
+com.example.sms.app-resValues-21 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Kishaanth\SMS\app\build\generated\res\resValues\debug
+com.example.sms.app-packageDebugResources-22 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Kishaanth\SMS\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.sms.app-packageDebugResources-23 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Kishaanth\SMS\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.sms.app-merged_res-24 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Kishaanth\SMS\app\build\intermediates\merged_res\debug
+com.example.sms.app-debug-25 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Kishaanth\SMS\app\src\debug\res
+com.example.sms.app-main-26 D:\SSN-Class\SSN-SEMESTER-7\Mobile Computing Lab (Android Studio)\Kishaanth\SMS\app\src\main\res
