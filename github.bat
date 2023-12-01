@@ -18,8 +18,8 @@ git add .
 git commit -m "%today%"
 git push -f origin main
 
-pause
-endlocal
 
+endlocal
+pause
 exit
 
